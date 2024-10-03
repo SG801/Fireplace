@@ -1,0 +1,15 @@
+.formField {
+  background-color: lightgrey;
+  padding: 10px;
+}
+
+.labelInput {
+  display: block;
+  width: 100%;
+}
+
+.justInputs {
+  display: block;
+  width: 100%;
+  padding: 10px;
+}

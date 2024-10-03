@@ -1,0 +1,28 @@
+.menuBox {
+  position: absolute;
+  z-index: 9;
+  background: #f0911b;
+  height: 100vh;
+  width: 100vw;
+  left: 0;
+  right: 0;
+  top: 0;
+}
+
+.menuButton {
+  padding: 20px;
+  border: none;
+  cursor: pointer;
+  background-color: #f0911b;
+}
+
+.menuText {
+  list-style: none;
+  text-align: right;
+  padding: 5px 20px;
+  cursor: pointer;
+}
+
+.menuText:hover {
+  text-decoration: underline;
+}
